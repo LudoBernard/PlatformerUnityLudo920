@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e5853b76-0821-46cd-9511-766ef5b398e6}">
+		<property name="assetPath">
+			<value>Landing.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.15362811791383221</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ede9dbe4-4dd6-401e-9773-367516dd8715}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,2872 @@
+fileFormatVersion: 2
+guid: 2d2f5784cb651854286b1df99d7f1e05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3675717388011300749
+    second: platformPack_tilesheet_0
+  - first:
+      213: 1497654537045197512
+    second: platformPack_tilesheet_1
+  - first:
+      213: -2971560487978958717
+    second: platformPack_tilesheet_2
+  - first:
+      213: 1194775552194177182
+    second: platformPack_tilesheet_3
+  - first:
+      213: -67260320283365526
+    second: platformPack_tilesheet_4
+  - first:
+      213: -2297678339837889277
+    second: platformPack_tilesheet_5
+  - first:
+      213: -2669738015307646140
+    second: platformPack_tilesheet_6
+  - first:
+      213: -5343778567584597206
+    second: platformPack_tilesheet_7
+  - first:
+      213: 198327761963240103
+    second: platformPack_tilesheet_8
+  - first:
+      213: 7603596860735191224
+    second: platformPack_tilesheet_9
+  - first:
+      213: -2791041982528332784
+    second: platformPack_tilesheet_10
+  - first:
+      213: -4917246509589660587
+    second: platformPack_tilesheet_11
+  - first:
+      213: -6343519296654054873
+    second: platformPack_tilesheet_12
+  - first:
+      213: 5802382940043802597
+    second: platformPack_tilesheet_13
+  - first:
+      213: -1680656839057344312
+    second: platformPack_tilesheet_14
+  - first:
+      213: -8718846420707220360
+    second: platformPack_tilesheet_15
+  - first:
+      213: -1020003207166317292
+    second: platformPack_tilesheet_16
+  - first:
+      213: 2498972166423581701
+    second: platformPack_tilesheet_17
+  - first:
+      213: -9019370586224916440
+    second: platformPack_tilesheet_18
+  - first:
+      213: 4582258180007055615
+    second: platformPack_tilesheet_19
+  - first:
+      213: -3053032850354778017
+    second: platformPack_tilesheet_20
+  - first:
+      213: 2000318658764212219
+    second: platformPack_tilesheet_21
+  - first:
+      213: -7131194573353445407
+    second: platformPack_tilesheet_22
+  - first:
+      213: -8671202371429318906
+    second: platformPack_tilesheet_23
+  - first:
+      213: 9118974377659613285
+    second: platformPack_tilesheet_24
+  - first:
+      213: 7168705448075581056
+    second: platformPack_tilesheet_25
+  - first:
+      213: 3108537083571099360
+    second: platformPack_tilesheet_26
+  - first:
+      213: 5359956806324251708
+    second: platformPack_tilesheet_27
+  - first:
+      213: -2102368444492911589
+    second: platformPack_tilesheet_28
+  - first:
+      213: 5613609842964036939
+    second: platformPack_tilesheet_29
+  - first:
+      213: 3139700333482706574
+    second: platformPack_tilesheet_30
+  - first:
+      213: 5515580552219433423
+    second: platformPack_tilesheet_31
+  - first:
+      213: -8447794606436959138
+    second: platformPack_tilesheet_32
+  - first:
+      213: 4616144251219174747
+    second: platformPack_tilesheet_33
+  - first:
+      213: -6793467927654196686
+    second: platformPack_tilesheet_34
+  - first:
+      213: -3843204344904844177
+    second: platformPack_tilesheet_35
+  - first:
+      213: -6281372894776990157
+    second: platformPack_tilesheet_36
+  - first:
+      213: 7803244411431362681
+    second: platformPack_tilesheet_37
+  - first:
+      213: 3575207316984784501
+    second: platformPack_tilesheet_38
+  - first:
+      213: -4265210035970821296
+    second: platformPack_tilesheet_39
+  - first:
+      213: 7793541705929876910
+    second: platformPack_tilesheet_40
+  - first:
+      213: 2127383828125186975
+    second: platformPack_tilesheet_41
+  - first:
+      213: -7121774993602184644
+    second: platformPack_tilesheet_42
+  - first:
+      213: 9073414659263081520
+    second: platformPack_tilesheet_43
+  - first:
+      213: 8054355832321402330
+    second: platformPack_tilesheet_44
+  - first:
+      213: 7604668463972655609
+    second: platformPack_tilesheet_45
+  - first:
+      213: -7365346576805866900
+    second: platformPack_tilesheet_46
+  - first:
+      213: -6625809044397681302
+    second: platformPack_tilesheet_47
+  - first:
+      213: -3907501461650199765
+    second: platformPack_tilesheet_48
+  - first:
+      213: 4869644437843835221
+    second: platformPack_tilesheet_49
+  - first:
+      213: 8520943869987402425
+    second: platformPack_tilesheet_50
+  - first:
+      213: -7582207473722716598
+    second: platformPack_tilesheet_51
+  - first:
+      213: 113466129880461321
+    second: platformPack_tilesheet_52
+  - first:
+      213: 6382302790431110032
+    second: platformPack_tilesheet_53
+  - first:
+      213: -5701913029375915191
+    second: platformPack_tilesheet_54
+  - first:
+      213: -2438843658756123571
+    second: platformPack_tilesheet_55
+  - first:
+      213: 4418268933478749330
+    second: platformPack_tilesheet_56
+  - first:
+      213: -3339002421412037762
+    second: platformPack_tilesheet_57
+  - first:
+      213: 2330615992907441848
+    second: platformPack_tilesheet_58
+  - first:
+      213: 6539738197558432422
+    second: platformPack_tilesheet_59
+  - first:
+      213: 5543355331481416411
+    second: platformPack_tilesheet_60
+  - first:
+      213: -329807682860033722
+    second: platformPack_tilesheet_61
+  - first:
+      213: 736037565102701571
+    second: platformPack_tilesheet_62
+  - first:
+      213: 7407790550092901962
+    second: platformPack_tilesheet_63
+  - first:
+      213: 7571522258589489921
+    second: platformPack_tilesheet_64
+  - first:
+      213: 365240933877879282
+    second: platformPack_tilesheet_65
+  - first:
+      213: 6484311554862978555
+    second: platformPack_tilesheet_66
+  - first:
+      213: -3015883018749221715
+    second: platformPack_tilesheet_67
+  - first:
+      213: -8233407340692220617
+    second: platformPack_tilesheet_68
+  - first:
+      213: 4131542717008771627
+    second: platformPack_tilesheet_69
+  - first:
+      213: -8120040315211294159
+    second: platformPack_tilesheet_70
+  - first:
+      213: -8077744885297897661
+    second: platformPack_tilesheet_71
+  - first:
+      213: 3018018900400578528
+    second: platformPack_tilesheet_72
+  - first:
+      213: -3685791462794059503
+    second: platformPack_tilesheet_73
+  - first:
+      213: -5673278798345599059
+    second: platformPack_tilesheet_74
+  - first:
+      213: -3564777485283095739
+    second: platformPack_tilesheet_75
+  - first:
+      213: -5385800999692259534
+    second: platformPack_tilesheet_76
+  - first:
+      213: -1364626516741762822
+    second: platformPack_tilesheet_77
+  - first:
+      213: -5652490260500242196
+    second: platformPack_tilesheet_78
+  - first:
+      213: -3863270000433743358
+    second: platformPack_tilesheet_79
+  - first:
+      213: -2652159029634533251
+    second: platformPack_tilesheet_80
+  - first:
+      213: -3171826077147836033
+    second: platformPack_tilesheet_81
+  - first:
+      213: -9169103410807245697
+    second: platformPack_tilesheet_82
+  - first:
+      213: -8159112258552732388
+    second: platformPack_tilesheet_83
+  - first:
+      213: 7152219933858350172
+    second: platformPack_tilesheet_84
+  - first:
+      213: 530901223007252489
+    second: platformPack_tilesheet_85
+  - first:
+      213: -121726045332396654
+    second: platformPack_tilesheet_86
+  - first:
+      213: 2447184356273317695
+    second: platformPack_tilesheet_87
+  - first:
+      213: 5994018290434446105
+    second: platformPack_tilesheet_88
+  - first:
+      213: 3675386521965125479
+    second: platformPack_tilesheet_89
+  - first:
+      213: -5078590866903361487
+    second: platformPack_tilesheet_90
+  - first:
+      213: 2073348022836702526
+    second: platformPack_tilesheet_91
+  - first:
+      213: -34835022042338496
+    second: platformPack_tilesheet_92
+  - first:
+      213: -7102400135493799030
+    second: platformPack_tilesheet_93
+  - first:
+      213: -8694281022444486796
+    second: platformPack_tilesheet_94
+  - first:
+      213: -8823897432549823574
+    second: platformPack_tilesheet_95
+  - first:
+      213: -4528292065926268267
+    second: platformPack_tilesheet_96
+  - first:
+      213: -8470335114754285431
+    second: platformPack_tilesheet_97
+  - first:
+      213: -4581017745577881382
+    second: platformPack_tilesheet_98
+  - first:
+      213: -8005057828566661518
+    second: platformPack_tilesheet_99
+  - first:
+      213: -3170135294882795735
+    second: platformPack_tilesheet_100
+  - first:
+      213: -720913764559579936
+    second: platformPack_tilesheet_101
+  - first:
+      213: -7050802175452318323
+    second: platformPack_tilesheet_102
+  - first:
+      213: -2476659895231088978
+    second: platformPack_tilesheet_103
+  - first:
+      213: -3185029246093356525
+    second: platformPack_tilesheet_104
+  - first:
+      213: -7273029937623427327
+    second: platformPack_tilesheet_105
+  - first:
+      213: 5548227469057518778
+    second: platformPack_tilesheet_106
+  - first:
+      213: -5924798372500729831
+    second: platformPack_tilesheet_107
+  - first:
+      213: -8811750032257073073
+    second: platformPack_tilesheet_108
+  - first:
+      213: 4254908112800216049
+    second: platformPack_tilesheet_109
+  - first:
+      213: -3881422178653935798
+    second: platformPack_tilesheet_110
+  - first:
+      213: 273096344352250191
+    second: platformPack_tilesheet_111
+  - first:
+      213: 5569549534494587902
+    second: platformPack_tilesheet_112
+  - first:
+      213: 8096386988173996947
+    second: platformPack_tilesheet_113
+  - first:
+      213: -857350666399679483
+    second: platformPack_tilesheet_114
+  - first:
+      213: 5713262630581697493
+    second: platformPack_tilesheet_115
+  - first:
+      213: 4785656069646001572
+    second: platformPack_tilesheet_116
+  - first:
+      213: 5290235739643235396
+    second: platformPack_tilesheet_117
+  - first:
+      213: -8363289834361670451
+    second: platformPack_tilesheet_118
+  - first:
+      213: -7631637757826828104
+    second: platformPack_tilesheet_119
+  - first:
+      213: 4830784304615697891
+    second: platformPack_tilesheet_120
+  - first:
+      213: -5309803772139696363
+    second: platformPack_tilesheet_121
+  - first:
+      213: 193211339097474341
+    second: platformPack_tilesheet_122
+  - first:
+      213: 6716170957273208357
+    second: platformPack_tilesheet_123
+  - first:
+      213: 4975068844254329706
+    second: platformPack_tilesheet_124
+  - first:
+      213: -839223911614209784
+    second: platformPack_tilesheet_125
+  - first:
+      213: 7383532925930386150
+    second: platformPack_tilesheet_126
+  - first:
+      213: 8968422076454553274
+    second: platformPack_tilesheet_127
+  - first:
+      213: 5541998304989595296
+    second: platformPack_tilesheet_128
+  - first:
+      213: -2622611360844877696
+    second: platformPack_tilesheet_129
+  - first:
+      213: 311102906718282276
+    second: platformPack_tilesheet_130
+  - first:
+      213: -5286383748795340504
+    second: platformPack_tilesheet_131
+  - first:
+      213: 5415970621184846578
+    second: platformPack_tilesheet_132
+  - first:
+      213: -8799915397178491055
+    second: platformPack_tilesheet_133
+  - first:
+      213: -2510683415812379633
+    second: platformPack_tilesheet_134
+  - first:
+      213: -4317511545062192281
+    second: platformPack_tilesheet_135
+  - first:
+      213: 2552730809151181271
+    second: platformPack_tilesheet_136
+  - first:
+      213: -1880406930726216816
+    second: platformPack_tilesheet_137
+  - first:
+      213: -3003260509731861914
+    second: platformPack_tilesheet_138
+  - first:
+      213: -674138334016565208
+    second: platformPack_tilesheet_139
+  - first:
+      213: -4269680848368854066
+    second: platformPack_tilesheet_140
+  - first:
+      213: -126730108729349415
+    second: platformPack_tilesheet_141
+  - first:
+      213: -4414259570949703136
+    second: platformPack_tilesheet_142
+  - first:
+      213: -4021158859815891775
+    second: platformPack_tilesheet_143
+  - first:
+      213: 877161663731822383
+    second: platformPack_tilesheet_144
+  - first:
+      213: 9083146458911644453
+    second: platformPack_tilesheet_145
+  - first:
+      213: -2550833043810618391
+    second: platformPack_tilesheet_146
+  - first:
+      213: -4212070444707663483
+    second: platformPack_tilesheet_147
+  - first:
+      213: -5355397931882487810
+    second: platformPack_tilesheet_148
+  - first:
+      213: -1937623817420896159
+    second: platformPack_tilesheet_149
+  - first:
+      213: 8465701179186640597
+    second: platformPack_tilesheet_150
+  - first:
+      213: 5877307176529388363
+    second: platformPack_tilesheet_151
+  - first:
+      213: 4467994840659302474
+    second: platformPack_tilesheet_152
+  - first:
+      213: 6787666857543596451
+    second: platformPack_tilesheet_153
+  - first:
+      213: -4781513241613040259
+    second: platformPack_tilesheet_154
+  - first:
+      213: -1499290915231074940
+    second: platformPack_tilesheet_155
+  - first:
+      213: 5765380173928509733
+    second: platformPack_tilesheet_156
+  - first:
+      213: 3222270366389144484
+    second: platformPack_tilesheet_157
+  - first:
+      213: -2925544713512983172
+    second: platformPack_tilesheet_158
+  - first:
+      213: 387841250690846699
+    second: platformPack_tilesheet_159
+  - first:
+      213: -798226898133659493
+    second: platformPack_tilesheet_160
+  - first:
+      213: 5982770330702731504
+    second: platformPack_tilesheet_161
+  - first:
+      213: 3943585203799026660
+    second: platformPack_tilesheet_162
+  - first:
+      213: 7620831672646825851
+    second: platformPack_tilesheet_163
+  - first:
+      213: -3956587826153019635
+    second: platformPack_tilesheet_164
+  - first:
+      213: -4425630728353850879
+    second: platformPack_tilesheet_165
+  - first:
+      213: -7484832278323141941
+    second: platformPack_tilesheet_166
+  - first:
+      213: 6627501247141109415
+    second: platformPack_tilesheet_167
+  - first:
+      213: 8025906671181870345
+    second: platformPack_tilesheet_168
+  - first:
+      213: -3678322794078986637
+    second: platformPack_tilesheet_169
+  - first:
+      213: -2885115845702021297
+    second: platformPack_tilesheet_170
+  - first:
+      213: 3120504207161055216
+    second: platformPack_tilesheet_171
+  - first:
+      213: 4624183177100745510
+    second: platformPack_tilesheet_172
+  - first:
+      213: 1641631481112296559
+    second: platformPack_tilesheet_173
+  - first:
+      213: -1589368226346496995
+    second: platformPack_tilesheet_174
+  - first:
+      213: -1850556730025699863
+    second: platformPack_tilesheet_175
+  - first:
+      213: -615004248100418217
+    second: platformPack_tilesheet_176
+  - first:
+      213: 5775924896406655066
+    second: platformPack_tilesheet_177
+  - first:
+      213: 5867982184589468290
+    second: platformPack_tilesheet_178
+  - first:
+      213: 901811337157715614
+    second: platformPack_tilesheet_179
+  - first:
+      213: -4477858099006938700
+    second: platformPack_tilesheet_180
+  - first:
+      213: 2494521085002348504
+    second: platformPack_tilesheet_181
+  - first:
+      213: 5445695164261502522
+    second: platformPack_tilesheet_182
+  - first:
+      213: 4470817163347598468
+    second: platformPack_tilesheet_183
+  - first:
+      213: 4816030857491569118
+    second: platformPack_tilesheet_184
+  - first:
+      213: -8132204050858929098
+    second: platformPack_tilesheet_185
+  - first:
+      213: -8038865231947289942
+    second: platformPack_tilesheet_186
+  - first:
+      213: -7620399992169814397
+    second: platformPack_tilesheet_187
+  - first:
+      213: -9046718457664870658
+    second: platformPack_tilesheet_188
+  - first:
+      213: -3537307111393968558
+    second: platformPack_tilesheet_189
+  - first:
+      213: -7925211950112040958
+    second: platformPack_tilesheet_190
+  - first:
+      213: -8973932557342336103
+    second: platformPack_tilesheet_191
+  - first:
+      213: -2818676668733448620
+    second: platformPack_tilesheet_192
+  - first:
+      213: -7341493123809739193
+    second: platformPack_tilesheet_193
+  - first:
+      213: 7549415670173610194
+    second: platformPack_tilesheet_194
+  - first:
+      213: -3809482968141236658
+    second: platformPack_tilesheet_195
+  - first:
+      213: -8350469907179207841
+    second: platformPack_tilesheet_196
+  - first:
+      213: 1117929978975058791
+    second: platformPack_tilesheet_197
+  - first:
+      213: -1114136803797988078
+    second: platformPack_tilesheet_198
+  - first:
+      213: 3507444192416423674
+    second: platformPack_tilesheet_199
+  - first:
+      213: 5242090643193660472
+    second: platformPack_tilesheet_200
+  - first:
+      213: 76478870160625528
+    second: platformPack_tilesheet_201
+  - first:
+      213: -5217245767641573415
+    second: platformPack_tilesheet_202
+  - first:
+      213: -8476120541098401172
+    second: platformPack_tilesheet_203
+  - first:
+      213: -3708580259327192637
+    second: platformPack_tilesheet_204
+  - first:
+      213: -1437018077401214735
+    second: platformPack_tilesheet_205
+  - first:
+      213: 8863499861004114274
+    second: platformPack_tilesheet_206
+  - first:
+      213: 651468116530333486
+    second: platformPack_tilesheet_207
+  - first:
+      213: -4223787971238904324
+    second: platformPack_tilesheet_208
+  - first:
+      213: -3383301922607964375
+    second: platformPack_tilesheet_209
+  - first:
+      213: 6777694082126522621
+    second: platformPack_tilesheet_210
+  - first:
+      213: -256783086087219390
+    second: platformPack_tilesheet_211
+  - first:
+      213: 3875472487270927818
+    second: platformPack_tilesheet_212
+  - first:
+      213: -151545109847150285
+    second: platformPack_tilesheet_213
+  - first:
+      213: 602670459416272625
+    second: platformPack_tilesheet_214
+  - first:
+      213: 5796765686140349477
+    second: platformPack_tilesheet_215
+  - first:
+      213: 2841276256052327563
+    second: platformPack_tilesheet_216
+  - first:
+      213: -1219888079348670306
+    second: platformPack_tilesheet_217
+  - first:
+      213: 5347332889330227440
+    second: platformPack_tilesheet_218
+  - first:
+      213: -62106265649170541
+    second: platformPack_tilesheet_219
+  - first:
+      213: 688309083392774440
+    second: platformPack_tilesheet_220
+  - first:
+      213: 5922240126555863101
+    second: platformPack_tilesheet_221
+  - first:
+      213: -2229504351510721503
+    second: platformPack_tilesheet_222
+  - first:
+      213: 7323595342040053645
+    second: platformPack_tilesheet_223
+  - first:
+      213: 7256038101613495674
+    second: platformPack_tilesheet_224
+  - first:
+      213: 4220031290471060030
+    second: platformPack_tilesheet_225
+  - first:
+      213: -4790466968773228319
+    second: platformPack_tilesheet_226
+  - first:
+      213: 2992381567842450747
+    second: platformPack_tilesheet_227
+  - first:
+      213: 2870602290739206566
+    second: platformPack_tilesheet_228
+  - first:
+      213: -3523728301231087242
+    second: platformPack_tilesheet_229
+  - first:
+      213: 2558342254702157575
+    second: platformPack_tilesheet_230
+  - first:
+      213: -398048258951880011
+    second: platformPack_tilesheet_231
+  - first:
+      213: 1010451658088329272
+    second: platformPack_tilesheet_232
+  - first:
+      213: 2222280273389875196
+    second: platformPack_tilesheet_233
+  - first:
+      213: 4658225046347088789
+    second: platformPack_tilesheet_234
+  - first:
+      213: -7633418153636589765
+    second: platformPack_tilesheet_235
+  - first:
+      213: -6703059526241619643
+    second: platformPack_tilesheet_236
+  - first:
+      213: 5497177302294585404
+    second: platformPack_tilesheet_237
+  - first:
+      213: 3277602664878859484
+    second: platformPack_tilesheet_238
+  - first:
+      213: -1397045634392355396
+    second: platformPack_tilesheet_239
+  - first:
+      213: -1024359808778270042
+    second: platformPack_tilesheet_240
+  - first:
+      213: 1780949805637554517
+    second: platformPack_tilesheet_241
+  - first:
+      213: -3364351967214577180
+    second: platformPack_tilesheet_242
+  - first:
+      213: 6962231426839236739
+    second: platformPack_tilesheet_243
+  - first:
+      213: -824527958296772934
+    second: platformPack_tilesheet_244
+  - first:
+      213: 905424397592491567
+    second: platformPack_tilesheet_245
+  - first:
+      213: 1178179768885613675
+    second: platformPack_tilesheet_246
+  - first:
+      213: 3896657019885389219
+    second: platformPack_tilesheet_247
+  - first:
+      213: 1973735638840029153
+    second: platformPack_tilesheet_248
+  - first:
+      213: 4113574527164162318
+    second: platformPack_tilesheet_249
+  - first:
+      213: -3123670055973690514
+    second: platformPack_tilesheet_250
+  - first:
+      213: 128396627413976677
+    second: platformPack_tilesheet_251
+  - first:
+      213: 4396688683045859140
+    second: platformPack_tilesheet_252
+  - first:
+      213: -1572418907447315013
+    second: platformPack_tilesheet_253
+  - first:
+      213: -6961390412103521992
+    second: platformPack_tilesheet_254
+  - first:
+      213: 8079568623505411156
+    second: platformPack_tilesheet_255
+  - first:
+      213: -1060203322402314086
+    second: platformPack_tilesheet_256
+  - first:
+      213: -1205988994238977454
+    second: platformPack_tilesheet_257
+  - first:
+      213: 8277744742248418863
+    second: platformPack_tilesheet_258
+  - first:
+      213: 6446579087539882182
+    second: platformPack_tilesheet_259
+  - first:
+      213: 373957280827165513
+    second: platformPack_tilesheet_260
+  - first:
+      213: 1944723056868825841
+    second: platformPack_tilesheet_261
+  - first:
+      213: 897334011625384084
+    second: platformPack_tilesheet_262
+  - first:
+      213: -1895506021957547080
+    second: platformPack_tilesheet_263
+  - first:
+      213: -3592546624917619457
+    second: platformPack_tilesheet_264
+  - first:
+      213: -2943473926558213122
+    second: platformPack_tilesheet_265
+  - first:
+      213: -7402035084710629596
+    second: platformPack_tilesheet_266
+  - first:
+      213: 5699988348745580680
+    second: platformPack_tilesheet_267
+  - first:
+      213: 1998152208019331200
+    second: platformPack_tilesheet_268
+  - first:
+      213: 3161741922869887953
+    second: platformPack_tilesheet_269
+  - first:
+      213: -2755662661475412105
+    second: platformPack_tilesheet_270
+  - first:
+      213: 1290749407092955123
+    second: platformPack_tilesheet_271
+  - first:
+      213: 3595537254759331481
+    second: platformPack_tilesheet_272
+  - first:
+      213: -1953343181272585777
+    second: platformPack_tilesheet_273
+  - first:
+      213: 874978496888153088
+    second: platformPack_tilesheet_274
+  - first:
+      213: 1281764432440389382
+    second: platformPack_tilesheet_275
+  - first:
+      213: -3820818621629981566
+    second: platformPack_tilesheet_276
+  - first:
+      213: -408865893271419350
+    second: platformPack_tilesheet_277
+  - first:
+      213: 5481461003115686462
+    second: platformPack_tilesheet_278
+  - first:
+      213: -7486386246294683885
+    second: platformPack_tilesheet_279
+  - first:
+      213: -5440682311925077466
+    second: platformPack_tilesheet_280
+  - first:
+      213: -848823312334370010
+    second: platformPack_tilesheet_281
+  - first:
+      213: -5631829935390878712
+    second: platformPack_tilesheet_282
+  - first:
+      213: -6262799054380039391
+    second: platformPack_tilesheet_283
+  - first:
+      213: 4532064623000936484
+    second: platformPack_tilesheet_284
+  - first:
+      213: 5155397778037046506
+    second: platformPack_tilesheet_285
+  - first:
+      213: 1609508200350215352
+    second: platformPack_tilesheet_286
+  - first:
+      213: 2286615654706613877
+    second: platformPack_tilesheet_287
+  - first:
+      213: -2187416421116287043
+    second: platformPack_tilesheet_288
+  - first:
+      213: 8469218960513754046
+    second: platformPack_tilesheet_289
+  - first:
+      213: -4289980930046106396
+    second: platformPack_tilesheet_290
+  - first:
+      213: -2346360033788945538
+    second: platformPack_tilesheet_291
+  - first:
+      213: -7013272506536010805
+    second: platformPack_tilesheet_292
+  - first:
+      213: 771260412724463855
+    second: platformPack_tilesheet_293
+  - first:
+      213: 8699040826640209942
+    second: platformPack_tilesheet_294
+  - first:
+      213: 8052944674423575075
+    second: platformPack_tilesheet_295
+  - first:
+      213: -1587883142033086342
+    second: platformPack_tilesheet_296
+  - first:
+      213: -5158045981718695733
+    second: platformPack_tilesheet_297
+  - first:
+      213: 3618593549974664918
+    second: platformPack_tilesheet_298
+  - first:
+      213: 6323925156790619923
+    second: platformPack_tilesheet_299
+  - first:
+      213: -7488891002980402946
+    second: platformPack_tilesheet_300
+  - first:
+      213: 2292875744561250106
+    second: platformPack_tilesheet_301
+  - first:
+      213: 8502121060249355256
+    second: platformPack_tilesheet_302
+  - first:
+      213: 6420960958343006337
+    second: platformPack_tilesheet_303
+  - first:
+      213: -5075221882883977767
+    second: platformPack_tilesheet_304
+  - first:
+      213: 4089246675078899115
+    second: platformPack_tilesheet_305
+  - first:
+      213: 3233830314651340082
+    second: platformPack_tilesheet_306
+  - first:
+      213: -167964966086557237
+    second: platformPack_tilesheet_307
+  - first:
+      213: -7754416569694460428
+    second: platformPack_tilesheet_308
+  - first:
+      213: -510085944283046836
+    second: platformPack_tilesheet_309
+  - first:
+      213: -3979504141055739168
+    second: platformPack_tilesheet_310
+  - first:
+      213: -3642723675919848310
+    second: platformPack_tilesheet_311
+  - first:
+      213: -4854466457411002029
+    second: platformPack_tilesheet_312
+  - first:
+      213: 4315150167158531415
+    second: platformPack_tilesheet_313
+  - first:
+      213: -3865644403943971284
+    second: platformPack_tilesheet_314
+  - first:
+      213: 299149965327061054
+    second: platformPack_tilesheet_315
+  - first:
+      213: 7167091672651775619
+    second: platformPack_tilesheet_316
+  - first:
+      213: -6699787216193209917
+    second: platformPack_tilesheet_317
+  - first:
+      213: 5697820742578216008
+    second: platformPack_tilesheet_318
+  - first:
+      213: 2053193309262232036
+    second: platformPack_tilesheet_319
+  - first:
+      213: 9176502339735517758
+    second: platformPack_tilesheet_320
+  - first:
+      213: -1749042631517436113
+    second: platformPack_tilesheet_321
+  - first:
+      213: -6657969750031393705
+    second: platformPack_tilesheet_322
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformPack_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781cd8a28a3dfcc0800000000000000
+      internalID: -3675717388011300749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c4d4dddcb8c410800000000000000
+      internalID: 1497654537045197512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3808d6dea75e2c6d0800000000000000
+      internalID: -2971560487978958717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ead6d802b49010800000000000000
+      internalID: 1194775552194177182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe706581b011ff0800000000000000
+      internalID: -67260320283365526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057ad939b10d10e0800000000000000
+      internalID: -2297678339837889277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3b328b6f23fad0800000000000000
+      internalID: -2669738015307646140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b36c094b517d5b0800000000000000
+      internalID: -5343778567584597206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aacae87c0a90c200800000000000000
+      internalID: 198327761963240103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8756b2f07658960800000000000000
+      internalID: 7603596860735191224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c523eba1a3449d0800000000000000
+      internalID: -2791041982528332784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf0ea2a5e62cbb0800000000000000
+      internalID: -4917246509589660587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a69112fca47f7a0800000000000000
+      internalID: -6343519296654054873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f818aa84368050800000000000000
+      internalID: 5802382940043802597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f7a6628b1da8e0800000000000000
+      internalID: -1680656839057344312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8746f82ff5f600780800000000000000
+      internalID: -8718846420707220360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da71fbc7838d1f0800000000000000
+      internalID: -1020003207166317292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504144bf1f12ea220800000000000000
+      internalID: 2498972166423581701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828057e0d32c4d280800000000000000
+      internalID: -9019370586224916440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d2707983779f30800000000000000
+      internalID: 4582258180007055615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50510b5cc271a5d0800000000000000
+      internalID: -3053032850354778017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70a35d83f82cb10800000000000000
+      internalID: 2000318658764212219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e713177158e80d90800000000000000
+      internalID: -7131194573353445407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f3e6b9263b9a780800000000000000
+      internalID: -8671202371429318906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604a40d1ea1d8e70800000000000000
+      internalID: 9118974377659613285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d3f3af9b5c7360800000000000000
+      internalID: 7168705448075581056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6526df10eb32b20800000000000000
+      internalID: 3108537083571099360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce46c2154626a40800000000000000
+      internalID: 5359956806324251708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c620fd903e2d2e0800000000000000
+      internalID: -2102368444492911589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df185f86c87ed40800000000000000
+      internalID: 5613609842964036939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86896681d4729b20800000000000000
+      internalID: 3139700333482706574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc997191a474b8c40800000000000000
+      internalID: 5515580552219433423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3dd3509763ca80800000000000000
+      internalID: -8447794606436959138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5561e53db6df0040800000000000000
+      internalID: 4616144251219174747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a9923c9e0c8b1a0800000000000000
+      internalID: -6793467927654196686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c75bea2023aaac0800000000000000
+      internalID: -3843204344904844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ec01e1a414d8a0800000000000000
+      internalID: -6281372894776990157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9702be6e271ba4c60800000000000000
+      internalID: 7803244411431362681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576614fcc10bd9130800000000000000
+      internalID: 3575207316984784501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533781021eeec4c0800000000000000
+      internalID: -4265210035970821296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5642cb3e8382c60800000000000000
+      internalID: 7793541705929876910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bff40025cf58d10800000000000000
+      internalID: 2127383828125186975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af418406f5a2d90800000000000000
+      internalID: -7121774993602184644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca2314f8e3bed70800000000000000
+      internalID: 9073414659263081520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ec18a4f1d6cf60800000000000000
+      internalID: 8054355832321402330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a4bd3da5398960800000000000000
+      internalID: 7604668463972655609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d8d9cf4809c990800000000000000
+      internalID: -7365346576805866900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651b1777c56c04a0800000000000000
+      internalID: -6625809044397681302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b250b9f14c5c9c0800000000000000
+      internalID: -3907501461650199765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597324d0d3749340800000000000000
+      internalID: 4869644437843835221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b234a9cd49704670800000000000000
+      internalID: 8520943869987402425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0273997696c690800000000000000
+      internalID: -7582207473722716598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900309d08dc139100800000000000000
+      internalID: 113466129880461321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09371a0b29e729850800000000000000
+      internalID: 6382302790431110032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b80ef4f4cbed0b0800000000000000
+      internalID: -5701913029375915191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4490292d9c772ed0800000000000000
+      internalID: -2438843658756123571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294152e9f28d05d30800000000000000
+      internalID: 4418268933478749330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bf09f0dfa79a1d0800000000000000
+      internalID: -3339002421412037762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a71db5e2085020800000000000000
+      internalID: 2330615992907441848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2168ddd31d1ca50800000000000000
+      internalID: 6539738197558432422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b7b4dd44fdec40800000000000000
+      internalID: 5543355331481416411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649deeae8a94c6bf0800000000000000
+      internalID: -329807682860033722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3a49044ee63a00800000000000000
+      internalID: 736037565102701571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e68c4d142cdc660800000000000000
+      internalID: 7407790550092901962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9038e063731960800000000000000
+      internalID: 7571522258589489921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11939b1b8911500800000000000000
+      internalID: 365240933877879282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59198f007ecf950800000000000000
+      internalID: 6484311554862978555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e15f8f5e6526d0800000000000000
+      internalID: -3015883018749221715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73552f665af0dbd80800000000000000
+      internalID: -8233407340692220617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af8a51630365930800000000000000
+      internalID: 4131542717008771627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13adaf9ea52df4f80800000000000000
+      internalID: -8120040315211294159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_71
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f179513d516ef80800000000000000
+      internalID: -8077744885297897661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9ac3233822e920800000000000000
+      internalID: 3018018900400578528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112ef7513079dcc0800000000000000
+      internalID: -3685791462794059503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70bd0cdf67441b0800000000000000
+      internalID: -5673278798345599059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_75
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b046e93cd578ec0800000000000000
+      internalID: -3564777485283095739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2666a68ac145b0800000000000000
+      internalID: -5385800999692259534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05782c96fdf0de0800000000000000
+      internalID: -1364626516741762822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce027866e025e81b0800000000000000
+      internalID: -5652490260500242196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a39b03768e26ac0800000000000000
+      internalID: -3863270000433743358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f9ce0a63a13bd0800000000000000
+      internalID: -2652159029634533251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715846ecf86bf3d0800000000000000
+      internalID: -3171826077147836033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f202270dc0c080800000000000000
+      internalID: -9169103410807245697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ed6231a205ce80800000000000000
+      internalID: -8159112258552732388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_tilesheet_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544811c22ac14360800000000000000
+      internalID: 7152219933858350172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
