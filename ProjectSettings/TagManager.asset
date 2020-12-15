@@ -10,6 +10,9 @@ TagManager:
   - Ladders
   - Block
   - GoldenBlock
+  - LeftWaypoint
+  - RightWaypoint
+  - Zombie
   layers:
   - Default
   - TransparentFX

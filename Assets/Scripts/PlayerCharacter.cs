@@ -11,8 +11,7 @@ public class PlayerCharacter : MonoBehaviour
         None,
         Idle,
         Walk,
-        Jump,
-        Hurt
+        Jump
     }
 
     [SerializeField] private Animator anim_;
@@ -120,6 +119,7 @@ public class PlayerCharacter : MonoBehaviour
 
     private void Die()
     {
+        anim_.Play("Hurt");
         Debug.Log("You died!");
         FMODUnity.RuntimeManager.PlayOneShot(deathEvent_, transform.position);
         Destroy(gameObject);
@@ -154,6 +154,11 @@ public class PlayerCharacter : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Spikes"))
+        {
+            Die();
+        }
+        
+        if (other.gameObject.CompareTag("Zombie"))
         {
             Die();
         }

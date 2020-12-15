@@ -9,7 +9,6 @@ public class Block : MonoBehaviour
 {
     [SerializeField] private GameObject keyGameObject_;
     
-    
     [FMODUnity.EventRef][SerializeField] private string breakEvent_ = "";
 
     private GameObject key_;
