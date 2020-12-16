@@ -13,6 +13,7 @@ TagManager:
   - LeftWaypoint
   - RightWaypoint
   - Zombie
+  - Door
   layers:
   - Default
   - TransparentFX

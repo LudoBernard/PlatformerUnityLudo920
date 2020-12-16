@@ -24,10 +24,13 @@ public class PlayerCharacter : MonoBehaviour
     [FMODUnity.EventRef][SerializeField] private string pickUpKeyEvent_ = "";
     [FMODUnity.EventRef][SerializeField] private string deathEvent_ = "";
     [FMODUnity.EventRef][SerializeField] private string landEvent_ = "";
+    [FMODUnity.EventRef][SerializeField] private string openEvent_ = "";
     
 
     private bool facingRight_ = true;
     private bool jumpButtonDown_ = false;
+    
+    public bool hasKey_ = false;
 
     private State currentState_ = State.Idle;
 
@@ -177,11 +180,25 @@ public class PlayerCharacter : MonoBehaviour
         {
             Destroy(other.gameObject);
             FMODUnity.RuntimeManager.PlayOneShot(pickUpKeyEvent_, transform.position);
+            hasKey_ = true;
         }
         
         if (other.gameObject.layer == LayerMask.NameToLayer("Water"))
         {
             Die();
+        }
+        
+        if (other.gameObject.CompareTag("Door"))
+        {
+            if (hasKey_)
+            {
+                FMODUnity.RuntimeManager.PlayOneShot(openEvent_, transform.position);
+                Debug.Log("You won!");
+            }
+            else
+            {
+                Debug.Log("You need to find the key to open the door!");
+            }
         }
     }
 }
