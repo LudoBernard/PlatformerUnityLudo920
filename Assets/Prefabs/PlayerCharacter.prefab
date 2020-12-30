@@ -103,7 +103,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b22876bd9e65e0049bb4121afcf2d423, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
@@ -129,6 +129,8 @@ MonoBehaviour:
   pickUpKeyEvent_: event:/Sons/PickupKey
   deathEvent_: event:/Sons/Death
   landEvent_: event:/Sons/Landing
+  openEvent_: 
+  hasKey_: 0
 --- !u!95 &3949674865414989128
 Animator:
   serializedVersion: 3

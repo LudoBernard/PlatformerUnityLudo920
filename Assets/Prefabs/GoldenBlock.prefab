@@ -97,6 +97,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   keyGameObject_: {fileID: 4382901058804099720, guid: afd74e0f5b94e5a4ca80beef4e94a287, type: 3}
+  gemGameObject_: {fileID: 8648930764790177052, guid: c599cced926146341b7e0e2c8a08e35e, type: 3}
+  hasKey_: 0
   breakEvent_: event:/Sons/BreakBlock
 --- !u!61 &1552425822822940114
 BoxCollider2D:
