@@ -39,6 +39,7 @@ public class PlayerCharacter : MonoBehaviour
     private const float JumpSpeed = 5.0f;
     
     private int gems_ = 0;
+    private int lives_ = 3;
     
     // Start is called before the first frame update
     void Start()

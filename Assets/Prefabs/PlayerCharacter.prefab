@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3949674865414989124}
   - component: {fileID: 3949674865414989127}
   - component: {fileID: 3949674865414989128}
-  - component: {fileID: 4255449092875065323}
+  - component: {fileID: -3495273509238298797}
   m_Layer: 0
   m_Name: PlayerCharacter
   m_TagString: Player
@@ -150,8 +150,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!61 &4255449092875065323
-BoxCollider2D:
+--- !u!58 &-3495273509238298797
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -159,23 +159,13 @@ BoxCollider2D:
   m_GameObject: {fileID: 3949674865414989126}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: b22876bd9e65e0049bb4121afcf2d423, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.009453058, y: -0.07026553}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.8, y: 1.1}
-    newSize: {x: 0.8, y: 1.1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_Offset: {x: 0.017420292, y: -0.06969494}
   serializedVersion: 2
-  m_Size: {x: 0.61903906, y: 0.9594691}
-  m_EdgeRadius: 0
+  m_Radius: 0.46674997
 --- !u!1 &3949674865954976576
 GameObject:
   m_ObjectHideFlags: 0
