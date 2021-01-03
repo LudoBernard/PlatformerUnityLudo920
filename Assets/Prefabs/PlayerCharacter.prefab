@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 3949674865414989127}
   - component: {fileID: 3949674865414989128}
   - component: {fileID: -3495273509238298797}
-  m_Layer: 0
+  - component: {fileID: 130593901907116202}
+  m_Layer: 11
   m_Name: PlayerCharacter
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -129,8 +130,10 @@ MonoBehaviour:
   pickUpKeyEvent_: event:/Sons/PickupKey
   deathEvent_: event:/Sons/Death
   landEvent_: event:/Sons/Landing
-  openEvent_: 
+  openEvent_: event:/Sons/OpenDoor
   hasKey_: 0
+  gems_: 0
+  lives_: 3
 --- !u!95 &3949674865414989128
 Animator:
   serializedVersion: 3
@@ -166,6 +169,26 @@ CircleCollider2D:
   m_Offset: {x: 0.017420292, y: -0.06969494}
   serializedVersion: 2
   m_Radius: 0.46674997
+--- !u!114 &130593901907116202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3949674865414989126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4faa5a1ed45ba47acc27161aaeb39b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player_: {fileID: 3949674865414989127}
+  fullHeart_: {fileID: -329807682860033722, guid: 2d2f5784cb651854286b1df99d7f1e05, type: 3}
+  emptyHeart_: {fileID: 7803244411431362681, guid: 2d2f5784cb651854286b1df99d7f1e05, type: 3}
+  numOfHearts_: 3
+  hearts_:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &3949674865954976576
 GameObject:
   m_ObjectHideFlags: 0

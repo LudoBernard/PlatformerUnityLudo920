@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.IMGUI.Controls;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -18,7 +19,7 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private SpriteRenderer spriteRenderer_;
     [SerializeField] private Rigidbody2D body_;
     [SerializeField] private PlayerFoot foot_;
-    
+
     [FMODUnity.EventRef][SerializeField] private string jumpEvent_ = "";
     [FMODUnity.EventRef][SerializeField] private string pickUpGemEvent_ = "";
     [FMODUnity.EventRef][SerializeField] private string pickUpKeyEvent_ = "";
@@ -29,8 +30,6 @@ public class PlayerCharacter : MonoBehaviour
 
     private bool facingRight_ = true;
     private bool jumpButtonDown_ = false;
-    
-    public bool hasKey_ = false;
 
     private State currentState_ = State.Idle;
 
@@ -38,13 +37,19 @@ public class PlayerCharacter : MonoBehaviour
     private const float MoveSpeed = 2.5f;
     private const float JumpSpeed = 5.0f;
     
-    private int gems_ = 0;
-    private int lives_ = 3;
+    public bool hasKey_ = false;
+    public int gems_ = 0;
+    public int lives_ = 3;
+
+    private Renderer rend_;
+    private Color c_;
     
     // Start is called before the first frame update
     void Start()
     {
         ChangeState(State.Idle);
+        rend_ = GetComponent<Renderer>();
+        c_ = rend_.material.color;
     }
 
     private void Update()
@@ -52,6 +57,11 @@ public class PlayerCharacter : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             jumpButtonDown_ = true;
+        }
+
+        if (lives_ == 0)
+        {
+            Die();
         }
     }
     // Update is called once per frame
@@ -130,6 +140,29 @@ public class PlayerCharacter : MonoBehaviour
         SceneManager.LoadScene("World1-1");
     }
 
+    private void TakeDamage()
+    {
+        lives_--;
+        FMODUnity.RuntimeManager.PlayOneShot(deathEvent_, transform.position);
+        if (lives_ > 0)
+        {
+            StartCoroutine("GetInvulnerable");
+        }
+    }
+
+    private IEnumerator GetInvulnerable()
+    {
+        Physics2D.IgnoreLayerCollision(11, 9, true);
+        Physics2D.IgnoreLayerCollision(11, 10, true);
+        c_.a = 0.5f;
+        rend_.material.color = c_;
+        yield return new WaitForSeconds(2f);
+        Physics2D.IgnoreLayerCollision(11, 9, false);
+        Physics2D.IgnoreLayerCollision(11, 10, false);
+        c_.a = 1f;
+        rend_.material.color = c_;
+    }
+
     void ChangeState(State state)
     {
         switch(state)
@@ -157,14 +190,10 @@ public class PlayerCharacter : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.CompareTag("Spikes"))
+        if (other.gameObject.layer == LayerMask.NameToLayer("Spikes")
+            || other.gameObject.layer == LayerMask.NameToLayer("Zombies"))
         {
-            Die();
-        }
-        
-        if (other.gameObject.CompareTag("Zombie"))
-        {
-            Die();
+            TakeDamage();
         }
     }
 

@@ -18,6 +18,7 @@ public class ZombieCharacter : MonoBehaviour
     void Start()
     {
         anim_.Play("Walk");
+        Physics2D.IgnoreLayerCollision(10, 12, true);
     }
     
     // Update is called once per frame
