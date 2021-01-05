@@ -7,20 +7,31 @@ using UnityEngine.Audio;
 
 public class OptionsMenu : MonoBehaviour
 {
-    private FMOD.Studio.EventInstance instance_;
-    private FMOD.Studio.Bus bus_;
-    
-    [SerializeField] [Range(-80f, 10f)] private float busVolume_;
-    private float volume_;
+    private FMOD.Studio.Bus sfx_;
+    private FMOD.Studio.Bus music_;
 
-    private void Start()
+    private float musicVolume_ = 0.5f;
+    private float sfxVolume_ = 0.5f;
+
+    private void Awake()
     {
-        bus_ = FMODUnity.RuntimeManager.GetBus("bus:/Bus");
+        sfx_ = FMODUnity.RuntimeManager.GetBus("bus:/Master/Sounds");
+        music_ = FMODUnity.RuntimeManager.GetBus("bus:/Master/Music");
     }
-    
+
     private void Update()
-    {       
-        volume_ = Mathf.Pow(10.0f, busVolume_ / 20f);
-        bus_.setVolume(volume_);
+    {
+        sfx_.setVolume(sfxVolume_);
+        music_.setVolume(musicVolume_);
+    }
+
+    public void SfxVolumeLevel(float newSfxVolume)
+    {
+        sfxVolume_ = newSfxVolume;
+    }
+
+    public void MusicVolumeLevel(float newMusicVolume)
+    {
+        musicVolume_ = newMusicVolume;
     }
 }

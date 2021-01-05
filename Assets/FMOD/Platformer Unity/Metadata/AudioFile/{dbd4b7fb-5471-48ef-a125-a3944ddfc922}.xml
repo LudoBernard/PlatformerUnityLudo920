@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{dbd4b7fb-5471-48ef-a125-a3944ddfc922}">
+		<property name="assetPath">
+			<value>fnaf-sister-location-ost-turtle-crusher.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>108.95454166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ede9dbe4-4dd6-401e-9773-367516dd8715}</destination>
+		</relationship>
+	</object>
+</objects>
