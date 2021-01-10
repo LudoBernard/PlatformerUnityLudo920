@@ -10,6 +10,11 @@ public class Door : MonoBehaviour
 
     [SerializeField] private PlayerCharacter player_;
 
+    [SerializeField] private GameObject winScreen_;
+    [SerializeField] private GameObject scoreHealthCanvas_;
+
+    [FMODUnity.EventRef] [SerializeField] private string winEvent_ = "";
+
     private void Start()
     {
         animBot_.Play("BottomDoorClosed");
@@ -20,8 +25,19 @@ public class Door : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") && player_.hasKey_)
         {
-            animBot_.Play("BottomDoorOpen");
-            animTop_.Play("TopDoorOpen");
+            StartCoroutine("Winning");
+            
         }
+    }
+
+    private IEnumerator Winning()
+    {
+        animBot_.Play("BottomDoorOpen");
+        animTop_.Play("TopDoorOpen");
+        yield return new WaitForSeconds(1f);
+        Time.timeScale = 0f;
+        winScreen_.SetActive(true);
+        scoreHealthCanvas_.SetActive(false);
+        FMODUnity.RuntimeManager.PlayOneShot(winEvent_);
     }
 }

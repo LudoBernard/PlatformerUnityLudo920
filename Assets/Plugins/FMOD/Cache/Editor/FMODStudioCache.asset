@@ -1,5 +1,28 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8538229515785400633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sons/Win
+  m_EditorClassIdentifier: 
+  Path: event:/Sons/Win
+  guid: 8653e915cc665f4bbf371e36f87d02ff
+  Banks:
+  - {fileID: 5334606426259442080}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 497
 --- !u!114 &-7459494326729753301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -164,12 +187,13 @@ MonoBehaviour:
   - {fileID: -6854690802438706327}
   - {fileID: -7459494326729753301}
   - {fileID: 9126345026372499802}
+  - {fileID: -8538229515785400633}
   EditorParameters: []
   MasterBanks:
   - {fileID: 5334606426259442080}
   StringsBanks:
   - {fileID: 7606000289918695041}
-  stringsBankWriteTime: 637453804830736675
+  stringsBankWriteTime: 637459018615852682
   cacheVersion: 6
 --- !u!114 &1010643368297594803
 MonoBehaviour:
@@ -232,7 +256,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Platformer Unity/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637453804830702603
+  lastModified: 637459018615822765
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -251,11 +275,11 @@ MonoBehaviour:
   Path: Assets/FMOD/Platformer Unity/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637453804830736675
+  lastModified: 637459018615852682
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 1288
+    Value: 1322
   Exists: 1
 --- !u!114 &8010137556191522011
 MonoBehaviour:
