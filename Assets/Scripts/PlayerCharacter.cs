@@ -66,35 +66,25 @@ public class PlayerCharacter : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
-        float moveDir = 0.0f;
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            moveDir -= 1.0f;
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            moveDir += 1.0f;
-        }
         if (jumpButtonDown_ && foot_.FootContact > 0)
         {
             Jump();
         }
         jumpButtonDown_ = false;
         var vel = body_.velocity;
-        body_.velocity = new Vector2(MoveSpeed * moveDir, vel.y);
-        if (moveDir > DeadZone && !facingRight_)
+        body_.velocity = new Vector2(MoveSpeed * Input.GetAxis("Horizontal"), vel.y);
+        if (Input.GetAxis("Horizontal") > DeadZone && !facingRight_)
         {
             Flip();
         }
-        if (moveDir < -DeadZone && facingRight_)
+        if (Input.GetAxis("Horizontal") < -DeadZone && facingRight_)
         {
             Flip();
         }
         switch (currentState_)
         {
             case State.Idle:
-                if(Mathf.Abs(moveDir) > DeadZone)
+                if(Mathf.Abs(Input.GetAxis("Horizontal")) > DeadZone)
                 {
                     ChangeState(State.Walk);
                 }
@@ -104,7 +94,7 @@ public class PlayerCharacter : MonoBehaviour
                 }
                 break;
             case State.Walk:
-                if (Mathf.Abs(moveDir) < DeadZone)
+                if (Mathf.Abs(Input.GetAxis("Horizontal")) < DeadZone)
                 {
                     ChangeState(State.Idle);
                 }
