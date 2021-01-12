@@ -36,7 +36,7 @@ Pour gagner, il suffit de trouver la clé et d'ouvrir la porte.
 
 Même si le jeu à l'air très complet et contient beaucoup de fonctionalités dont je suis fier, il y a cependant beaucoup de choses qui ont ralenti, voir bloqué mon progrès à certains moment du développement:
 
-## Le mouvement sur le sol:
+# Le mouvement sur le sol:
    
    Mon personnage, ainsi que les Zombies, se bloquaient de temps en temps dans la tilemap du sol, ce qui les empêchait de bouger. Après plusieurs essais de correction, la seule solution qui fonctionnait réellement était de mettre des Capsule Collider 2D aux personnages, au lieu de mettre des Box Collider 2D, ceci règla instantanément le problème.
    
