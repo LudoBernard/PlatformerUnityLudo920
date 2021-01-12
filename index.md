@@ -1,4 +1,4 @@
-![](https://github.com/LudoBernard/Super-Not-Mario-Bros./gh-pages/Game.png)
+![](https://github.com/LudoBernard/Super-Not-Mario-Bros./blob/gh-pages/Game.png)
 
 # Introduction:
 
