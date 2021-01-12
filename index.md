@@ -1,3 +1,5 @@
+# Bienvenue sur le DevBlog de mon premier jeu sur Unity!
+
 # Introduction:
 
 Je suis étudiant à la SAE institute de Genève, et comme premier module, nous devions créer un jeu simple en 2D avec de la physique.
