@@ -72,4 +72,4 @@ Même si le jeu à l'air très complet et contient beaucoup de fonctionalités d
 
 Ce projet m'a appris énormément de choses sur Unity, le C# ainsi que la création d'un jeu en général.
 Malgré l'angoisse, la frustration, et la colère des bug, des erreurs ou des échecs, la réussite de ce projet (car pour moi, c'est une réussite) suscite des émotions positives bien plus fortes que celles éprouvées lors du développement.
-Le création de ce jeu m'a aussi servi de leçon de vie: qu'il ne faut jamais baisser les bras, surtout au premier obstacle.
+Le création de ce jeu m'a aussi servi de leçon de vie: qu'il ne faut jamais baisser les bras, surtout au premier obstacle!
