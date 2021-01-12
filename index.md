@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#Super (Not) Mario Bros par LudoKitsune (Ludo Bernard)
 
-You can use the [editor on GitHub](https://github.com/LudoBernard/Super-Not-Mario-Bros./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Je suis étudiant à la SAE institute de Genève, et comme premier module, nous devions créer un jeu simple en 2D avec de la physique.
+J'ai décidé d'utiliser le moteur de jeu Unity pour créer un Platformer 2d simple nommé Super (Not) Mario Bros.
+Au départ, je voulais faire un jeu avec beaucoup de niveaux, de mondes et de monstres, puis je me suis rendu compte que j'étais beaucoup ambitieux sur tout ça.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+J'ai donc fait l'essentiel.
 
-### Markdown
+#Scénario:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+L'histoire du jeu est plutôt simple, vous jouez (Not) Mario, un personnage très original et non inspiré d'un autre jeu vidéo, qui vivait paisiblement dans sa petite maison, au fond d'une forêt, quand soudainement, une porte mystérieuse apparait hors de nul part. Il décide donc d'aller voir cette fameuse porte, mais pour cela, il doit d'abord trouver la clé qui s'est cachée dans la forêt.
 
-```markdown
-Syntax highlighted code block
+#Gameplay et fonctionalités:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LudoBernard/Super-Not-Mario-Bros./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Le jeu contient un système de mouvement très simple. Les touches A et D, ou les flèches directionelles permettent au joueur de se déplacer à gauche ou à droite. La barre espace permet au joueur de sauter, et le bouton Escape met le jeu en pause.
+Le déplacement est également compatible avec la manette.
+Il y a également des gemmes qui flottent et qui augmentent le score du joueur dès qu'elle sont récupérées.
